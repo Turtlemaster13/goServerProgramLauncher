@@ -11,3 +11,5 @@ examples:
 http://localhost:8080/output/ls
 
 http://xxx.xxx.xxx.xxx:8080/Jellyfin
+
+for a program to run, it must be in the computers PATH variable, and it must be added to allow list
